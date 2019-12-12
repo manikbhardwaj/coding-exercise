@@ -1,5 +1,4 @@
 # coding-exercise
-This is coding exercise for javascript
 
 This project is an exercise to do the following actions:
 
