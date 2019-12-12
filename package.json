@@ -1,0 +1,16 @@
+{
+  "name": "coding-exercise",
+  "version": "1.0.0",
+  "description": "coding exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run solution",
+	"solution": "node index.js"
+  },
+  "keywords": [
+    "ES6",
+    "Javascript"
+  ],
+  "author": "Manik Bhardwaj",
+  "license": "ISC"
+}
